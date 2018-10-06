@@ -1,6 +1,6 @@
 (defproject cryogen-admin-ui-md "0.1.0-SNAPSHOT"
-  :description "FIXME: write description"
-  :url "http://example.com/FIXME"
+  :description "A Clojure library to be used with cryogen static site generator\nThis could be used to create and edit posts or pages with a simple ui instead of directly editing the files"
+  :url "https://github.com/oneto018/-cryogen-admin-ui-md"
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
   :dependencies [[org.clojure/clojure "1.9.0"]
