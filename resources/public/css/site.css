@@ -1,0 +1,3 @@
+.textarea:not([rows]){
+  max-height: auto;
+}
